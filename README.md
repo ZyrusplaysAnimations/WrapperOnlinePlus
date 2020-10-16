@@ -2,7 +2,7 @@
 This is a Goanimate Legacy Video Maker Remake built in [Node.js](https://nodejs.org/)
 
 # Server
-If you want too edit the Asset Server, then click [here](https://github.com/2Epik4u/Wrapper-Online-Assets).
+If you want to edit the Asset Server, then click [here](https://github.com/2Epik4u/Wrapper-Online-Assets).
 
 # Start
 To access this service, install [Node.JS](https://nodejs.org/en/) then clone/download this project.	Once done, unzip the folder, copy the path, and execute the following commands in your command prompt (where `{PATH}` is the folder path you copied):
@@ -15,7 +15,7 @@ npm start
 # Host On Evennode
 1. make a account
 2. make a node.js evennode
-3. open terminal and run this command ``ssh-keygen -t rsa -C "your_email@example.com"``
+3. open command prompt on your main pc (NOT EVENNODE) and run this command ``ssh-keygen -t rsa -C "your_email@example.com"``
 4. go on the folder you saved it in and open the .PUB file
 5. Copy everything inside the file
 6. go on evennode, click account settings and paste the file on the public keys for git box and click save.
